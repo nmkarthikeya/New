@@ -3,7 +3,7 @@
 		<pages>
 			<Page title="{i18n>title}">
 				<content>
-					<Label text="Hello"></Label> 
+					<Label text="Hello World"></Label> 
 				</content>
 			</Page>
 		</pages>
